@@ -1,7 +1,7 @@
 <template>
-    <!-- <Translation /> -->
+    <Translation />
     <!-- <Enlarge /> -->
-    <Brush />
+    <!--<Brush /> -->
 </template>
 <script>
 import Enlarge from "./enlarge";
